@@ -36,20 +36,29 @@ Este projeto foi criado com foco em boas práticas de backend:
 
 ## Estrutura do projeto
 
-src/
-│
-├─ Model/
-│ └─ Pessoa.java
-│
-├─ Repository/
-│ └─ PessoaRepository.java
-│
-├─ Service/
-│ └─ PessoaService.java
-│
-└─ Main.java
+📦 cadastro-pessoas
+
+ ┣ 📂 src
+ 
+ ┃ ┣ 📂 model
+ 
+ ┃ ┃ ┗ 📜 Pessoa.java
+ 
+ ┃ ┣ 📂 repository
+ 
+ ┃ ┃ ┗ 📜 PessoaRepository.java
+ 
+ ┃ ┣ 📂 service
+ 
+ ┃ ┃ ┗ 📜 PessoaService.java
+ 
+ ┃ ┗ 📜 Main.java
+ 
+ ┗ 📜 README.md
+
 
 Autor
 
-Vinicius Alves Santan
+Vinicius Alves Santana
+
 Estudante de Desenvolvimento Backend Java
