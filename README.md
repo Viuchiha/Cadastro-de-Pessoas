@@ -34,7 +34,7 @@ Este projeto foi criado com foco em boas práticas de backend:
 
 ---
 
-## 🏗️ Estrutura do projeto
+## Estrutura do projeto
 
 src/
 │
@@ -49,7 +49,7 @@ src/
 │
 └─ Main.java
 
-👨‍💻 Autor
+Autor
 
 Vinicius Alves Santan
 Estudante de Desenvolvimento Backend Java
