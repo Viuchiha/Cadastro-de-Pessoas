@@ -61,4 +61,6 @@ Autor
 
 Vinicius Alves Santana
 
-Estudante de Desenvolvimento Backend Java
+Estudante de Engenharia da Computação
+
+Desenvolvedor FullStack
